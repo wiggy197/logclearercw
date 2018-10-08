@@ -1,0 +1,3 @@
+# logclearercw
+
+test
